@@ -1,4 +1,7 @@
-﻿using System;
+﻿using System.Xml.Serialization;
+using System;
+using DB2FLib;
+
 
 namespace DB2FConsole
 {
